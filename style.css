@@ -6,11 +6,10 @@
     background-color: #f8f8f8;
 }
 .logo {
-    text-indent:-999999px:
-    background: url('Logo_white.png');
-    width: 100%;
-    max-width:960px;
-    height: 148px;
+    max-width: 200px;
+    height: auto;
+    display: block;
+    margin: 0 auto;
 }
 header {
     background-color: #003366;
