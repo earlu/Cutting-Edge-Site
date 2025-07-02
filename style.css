@@ -1,12 +1,12 @@
 0033body {
-    font-family: 'Montserrat', sans-serif;
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
     color: #333;
     background-color: #f8f8f8;
 }
 .logo {
-    max-width: 960px;
+    max-width: 200px;
     height: auto;
     display: block;
     margin: 0 auto;
