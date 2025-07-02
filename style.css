@@ -9,7 +9,8 @@ body {
 .logo {
     text-indent:-999999px:
     background: url('Logo_blue.png');
-    width: 960px;
+    width: 100%;
+    max-width:960px;
     height: 148px;
 }
 header {
