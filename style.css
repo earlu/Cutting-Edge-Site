@@ -39,13 +39,16 @@ h2 {
 }
 p1 {
     color: #FFFFFF;
+    font-size: 24px
 }
 p2 {
     color: #333;
+    font-size: 24px
   }
 ul {
     list-style: disc inside;
     padding-left: 0;
+    font-size: 24px
 }
 footer {
     text-align: center;
