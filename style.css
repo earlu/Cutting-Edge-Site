@@ -36,8 +36,11 @@ h1 {
 h2 {
     color: #FF3366;
 }
-p {
+p1 {
     color: #FFFFFF;
+}
+p2 {
+    color: #333;
 }
 ul {
     list-style: disc inside;
