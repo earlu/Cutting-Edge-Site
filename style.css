@@ -32,7 +32,6 @@ header {
 h1 {
     color: #FFFFFF;
 }
-}
 h2 {
     color: #FF3366;
 }
@@ -53,7 +52,7 @@ footer {
     color: blue;
 }
 a {
-    color: #FFFFFF;
+    color: #FF333;
     text-decoration: none;
 }
 a:hover {
