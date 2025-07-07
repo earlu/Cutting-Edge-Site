@@ -36,6 +36,9 @@ h1 {
 h2 {
     color: #FF3366;
 }
+p {
+    color: #FFFFFF;
+}
 ul {
     list-style: disc inside;
     padding-left: 0;
